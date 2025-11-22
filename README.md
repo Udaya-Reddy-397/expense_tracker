@@ -8,15 +8,13 @@ View total and category-wise summaries
 Simple and easy-to-use interface
 
 Technologies Used:
-
 Python
 File handling / Lists / Functions
+
 How to Run:
 1. Clone the repository
 2. Run the Python file:
- python expense_tracker.py
-3. Follow the on-screen menu
-
+   python expense_tracker.py
 
 Future Improvements:
 Add a graphical interface
